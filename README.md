@@ -1,2 +1,3 @@
 # spring-samples
 Spring RESTful Web Service tutorial...
+Following guides on https://spring.io/guides
